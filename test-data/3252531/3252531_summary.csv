@@ -1,0 +1,7 @@
+,image_id,image_type,
+0,3252531_1,circle,
+1,3252531_2,true negative,
+2,3252531_3,true negative (T),
+3,3252531_4,true positive (added to real data),
+4,3252531_5,true negative (logo added to real data),
+5,3252531_6,"true negative (no logo, real data)",
